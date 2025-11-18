@@ -1,0 +1,1 @@
+/home/qib/.config/omarchy/current/theme/neovim.lua
